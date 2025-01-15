@@ -1,5 +1,6 @@
 
 // Closures is a combination of function  bundelled together with refernces to its surrounding state. 
+//OR function along with it's lexical scope form a Closures
 //OR closures gives function access to its Outer Scope
 
 
